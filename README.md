@@ -9,4 +9,6 @@ Given two sequences A=(a1,a2,…,an) and B=(b1,b2,…,bm), find the length of th
 
 The problem has applications in data comparison (e.g., diff utility, merge operation in various version control systems), bioinformatics (finding similarities between genes in various species), and others.
 
-__Disclaimer__: If you're currently taking the same course, please refrain yourself from checking out this solution as it will be against Coursera's Honor Code and won’t do you any good. Plus, once you're worked your heart out and was able to solve a particularly difficult problem, a sense of confidence you gained from such experience is priceless :)
+__Disclaimer__: 
+
+If you're currently taking the same course, please refrain yourself from checking out this solution as it will be against Coursera's Honor Code and won’t do you any good. Plus, once you're worked your heart out and was able to solve a particularly difficult problem, a sense of confidence you gained from such experience is priceless :)

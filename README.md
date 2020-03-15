@@ -1,5 +1,7 @@
-# DynamicProgramming_LongestCommonSequence
+# Dynamic Programming: Compute the Longest Common Sequence
+__Course URL:__ 
 https://www.coursera.org/learn/algorithmic-toolbox/
+
 
 __Assignment description:__
 
